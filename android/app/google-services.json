@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "69577525462",
+    "project_id": "fir-fit-f1d5a",
+    "storage_bucket": "fir-fit-f1d5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69577525462:android:e0d91df8618a50c2702177",
+        "android_client_info": {
+          "package_name": "io.codingyourlife.FITon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69577525462-if8u4rtibrrbtngda5jq604b5jd7negh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnx00cycUL9ImOW6Emcv_-84WFhqKbWlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69577525462-if8u4rtibrrbtngda5jq604b5jd7negh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69577525462:android:a2a1dcb9b3849c6f702177",
+        "android_client_info": {
+          "package_name": "io.codingyourlife.postos_locais"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69577525462-if8u4rtibrrbtngda5jq604b5jd7negh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnx00cycUL9ImOW6Emcv_-84WFhqKbWlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69577525462-if8u4rtibrrbtngda5jq604b5jd7negh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
