@@ -1,7 +1,7 @@
 # CM-FITon
 
-A Flutter application for Android and iOS. 
-Provides several training plans and connects you with your friends on a easy way. <br /> <br />
+A Flutter application for Android and iOS. <br /> 
+Provides several training plans and connects you with your friends on a easy way. <br /> 
 
 ![alt text](images/screen1.png "screen1.png")<br />
 
